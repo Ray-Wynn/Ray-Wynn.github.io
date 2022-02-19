@@ -2,4 +2,5 @@
 
 ## Example projects
 [IDataErrorInfo](Example-IDataErrorInfo)
+
 [INotifyDataErrorInfo](Example-INotifyDataErrorInfo)
